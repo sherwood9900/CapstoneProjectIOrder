@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "255714861840",
+    "firebase_url": "https://capstone-72b4c.firebaseio.com",
+    "project_id": "capstone-72b4c",
+    "storage_bucket": "capstone-72b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255714861840:android:fa61eeb95e7fa15c",
+        "android_client_info": {
+          "package_name": "com.example.shehrooz.foodish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255714861840-h8vfo4ua688i9naons4ipun2e5iu5nq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shehrooz.foodish",
+            "certificate_hash": "08554d8f80d06027530ef67e33324c3d51351087"
+          }
+        },
+        {
+          "client_id": "255714861840-dimc4v3njoqcin5ml4b0mu5lponb68hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrYm7FJ-VRJF1jOvPTpLBZdCaapXpJ88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255714861840-dimc4v3njoqcin5ml4b0mu5lponb68hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

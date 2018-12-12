@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IOrder</string>
+
+    <string-array name="Number">
+        <item>Table Number 1</item>
+        <item>Table Number 2</item>
+        <item>Table Number 3</item>
+        <item>Table Number 4</item>
+        <item>Table Number 5</item>
+        <item>Table Number 6</item>
+        <item>Table Number 7</item>
+        <item>Table Number 8</item>
+        <item>Table Number 9</item>
+    </string-array>
+</resources>
